@@ -1,0 +1,57 @@
+.wraper{
+    background-color:#AEECED;
+    width: 200px;
+    text-transform: uppercase;
+    padding-left: 20px;
+    padding-right: 70px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+}
+h1.one{
+    color: rgba(255, 0, 0, 0.692);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3em;
+    
+}
+h1.two{
+    background: linear-gradient(to right,#69BDFC 0% ,#0180EE 25%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+ 
+}
+h1.three{
+    background:linear-gradient(to right,#DDB786 0%,#785628 65%) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h1.four{
+    background:linear-gradient(to right,#63C0EC 0%,#195B73 65%) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h1.five{
+    background:linear-gradient(to right,#90B497 0%,#315604 40%) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+p{
+    color: red;
+    background-color:white;
+    font-weight: bold;
+    margin: 4px;
+    width:fit-content;
+    text-transform: none;
+}
+
+
+
+
+
+
